@@ -10,7 +10,14 @@
    3. We have to understand dataset.
    4. Find the missing values.
    5. We have to clean the missed data from the dataset.
-   6. It cannot process string or names. Work on Categorical values.
+   6. It cannot process string or names. Work on Categorical values(convert the strings into 0,1,2).
    7. We have to find the suitable machine learning model based upon the data.
+   8. Find the independent(x) and dependant features(y) [Using the x-values, we can predict y-values]s.
+   9. Split the depended and independant features into train and test sets[(x-train, x-test) and (y-train, y-test)].
+   10. Apply the machine learning model.
+   11. Predict the dependant values using known independant features.
+   12. If your are getting proper prediction, then we can say that the machine learning model is suitable.
+   13. Plot the picture using matplotlib or else.
+   
    
    
