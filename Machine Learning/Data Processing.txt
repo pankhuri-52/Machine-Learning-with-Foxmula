@@ -19,5 +19,12 @@
    12. If your are getting proper prediction, then we can say that the machine learning model is suitable.
    13. Plot the picture using matplotlib or else.
    
-   
-   
+feature scaling:---------------------------
+
+--> x,y with some data ->size of data is more
+--> By using feature scaling, we can reduce into small x and y values.
+
+1. min_max_scalar (values btw 0 to 1)
+2. standardization (values btw -1 to 1)
+3. normalisation
+4. Binormalisation x-->0,1
