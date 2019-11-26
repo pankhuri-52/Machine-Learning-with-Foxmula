@@ -1,0 +1,16 @@
+ -----------------------------------------------Data Processing--------------------------------------------------------------------
+--> Its a data mining technique
+--> Whatever whatever we have some unstructure data that unstructure data we convert into structure format.
+--> the whole processing is called data processing
+
+---------------------------------------------------------------------------------------------------------------------------------
+ STEPS :
+   1. Data Processing packages, we have to import in our program.
+   2. We have to import unstructure file data(Data Set) [ we may get from local machine/ internet/ sklearn-->datasets(module)predefined ]
+   3. We have to understand dataset.
+   4. Find the missing values.
+   5. We have to clean the missed data from the dataset.
+   6. It cannot process string or names. Work on Categorical values.
+   7. We have to find the suitable machine learning model based upon the data.
+   
+   
