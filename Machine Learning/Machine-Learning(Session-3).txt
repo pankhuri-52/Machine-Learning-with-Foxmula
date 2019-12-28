@@ -12,3 +12,20 @@
    which we get by advertising TV, Radio or Newspaper.
 
 4. describe() method is used for finding statistical information about our dataset like mean, standard deviation, min, max etc.
+
+5. seaborn package is more advanced than matplotlib and can help in 3d plots.
+
+6. paiplot will make plot of every column and show it to you independently. You have to pass the whole dataset
+   inside it.
+
+7. whenevr error rate is less, we cn say tht it is a standrd model.
+
+8. if r square value is more than 0.6, then we can say that the model used is correct or good.
+
+9. we can check the P value by using statsmodel. By using p-value, we can find out whether the feature is required or not.
+
+10. we have to add the constant in statsmodel but the constant is added automatically if we use sklearn package.
+
+11. summary method gives a lot of information regarding the dataset.
+
+12. If (P>|t|)>0.0.5, then we dont require that feature, it's a wastage, In this we dont require newspaper. 
