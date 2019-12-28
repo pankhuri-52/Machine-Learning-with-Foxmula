@@ -1,0 +1,9 @@
+1. Simple Linear Regression
+   Single independent features corresponding to that single dependent features.
+
+   Multiple Linear Regression
+   Multiple independent features corresponding to that single dependant features.
+
+2. In simple linear regression, when we plot the graph, it is a single line whereas in multiple linear regression,
+    there is a 3-d plot, we have to visualize 3-d as there are so many x-axis(x1,x2,x3........xn)[Independent Variables].
+    The graph comes in plane format in multiple linear regression.
