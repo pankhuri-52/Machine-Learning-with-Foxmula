@@ -7,3 +7,8 @@
 2. In simple linear regression, when we plot the graph, it is a single line whereas in multiple linear regression,
     there is a 3-d plot, we have to visualize 3-d as there are so many x-axis(x1,x2,x3........xn)[Independent Variables].
     The graph comes in plane format in multiple linear regression.
+
+3. We have TV, Radio and Newspapers as independent features and corresponding to that we have to find out the sales
+   which we get by advertising TV, Radio or Newspaper.
+
+4. describe() method is used for finding statistical information about our dataset like mean, standard deviation, min, max etc.
