@@ -1,0 +1,4 @@
+Housing Dataset
+1. we have to predict the value of price if the area is decreased or
+   increased, if the size of the bedroom is increased or decreased.
+
